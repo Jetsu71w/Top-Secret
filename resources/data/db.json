@@ -1,0 +1,88 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "UserName": "Chalie1890",
+      "Password": "cl18901924",
+      "personName": "Thomas",
+      "personLastname": "Shelby",
+      "Sex": "male",
+      "Age": "43",
+      "personEmail": "Shelbycompany@gmail.com",
+      "Address": "England West mid land Birmingham ShelbyHouse",
+      "tell": "0189743483",
+      "pic": "/images/Person/1.jpg",
+      "detail": "Tommy’ Shelby OBE DCM MM MP is the son of Arthur and Mrs. Shelby, brother of Arthur, John, Ada and Finn Shelby, father of Charles and Ruby Shelby, as well as being the husband of Grace and Lizzie Shelby. He is the leader of the Birmingham criminal gang, the Peaky Blinders and the patriarch of the Shelby Family."
+    },
+    {
+      "id": 2,
+      "UserName": "JoderJohn",
+      "Password": "18951919",
+      "personName": "John",
+      "personLastname": "Shelby",
+      "Sex": "male",
+      "Age": "30",
+      "personEmail": "CurssyJohn@gmail.com",
+      "Address": "England West mid land Birmingham ShelbyHouse",
+      "tell": "0174300926",
+      "pic": "/images/Person/2.jpg",
+      "detail": "Like Arthur, John is Thomas' brother and a close and trusted ally. He is also entrusted 1/3 of Shelby Company Limited and is initially the bookkeeper for the Peaky Blinders, believing himself to be better than his brothers                                                  ."
+    },
+    {
+      "id": 3,
+      "UserName": "Arthurea",
+      "Password": "18871924",
+      "personName": "Arthur",
+      "personLastname": "Shelby",
+      "Sex": "male",
+      "Age": "40",
+      "personEmail": "Arthuria@gmail.com",
+      "Address": "England West mid land Birmingham ShelbyHouse",
+      "tell": "190825395",
+      "pic": "/images/Person/3.jpg",
+      "detail": "Arthur Shelby is the eldest son of Arthur and Mrs Shelby, older brother of Thomas, John, Ada and Finn Shelby, as well as being the father of Billy Shelby. He was married to Linda Shelby, and is a tough member of the Peaky Blinders. He is also Deputy Vice President of Shelby Company Limited and member of the ICA, acting as his brother's right-hand man                                                  ."
+    },
+    {
+      "id": 4,
+      "UserName": "MiSCfield",
+      "Password": "MCSC_77826",
+      "personName": "Michael",
+      "personLastname": "Scofield",
+      "Sex": "male",
+      "Age": "31",
+      "personEmail": "MCSC@gmail.com",
+      "Address": "USA Joliet, Illinois Fox River State Penitentiary",
+      "tell": "18442847321",
+      "pic": "/images/Person/4.jpg",
+      "detail": "Michael J. Scofield is the main protagonist and principal character of the series. When his older brother, Lincoln Burrows, was sentenced to death for a crime he didn't commit, Michael created an elaborate plan to break him out. He obtained a jail sentence by robbing a bank to be incarcerated in Fox River State Penitentiary, the first step of his prison break plan."
+    },
+    {
+      "UserName": "Polly",
+      "Password": "MC_77421",
+      "personName": "Elizabeth",
+      "personLastname": "Gray",
+      "Sex": "female",
+      "Age": "45",
+      "tell": "0174739950",
+      "personEmail": "pollygray@gmail.com",
+      "Address": "England West mid land Birmingham ShelbyHouse",
+      "id": 5,
+      "pic": "/images/Person/5.jpg",
+      "detail": "She managed the Peaky Blinders, when the Shelby brothers were absent during WWI. She was the unofficial head of the Shelby Family and often advised her nephews on the gang's business."
+    },
+    {
+      "pic": "/images/Person/6.jpg",
+      "UserName": "???????",
+      "Password": "???????",
+      "personName": "Elliot",
+      "personLastname": "Alderson",
+      "Sex": "male",
+      "Age": "27",
+      "personEmail": "?????????",
+      "Address": "?????????????????????????????????????????????",
+      "tell": "121",
+      "detail": "Cybercriminals!!!",
+      "id": 6
+    }
+  ]
+}
